@@ -1,0 +1,22 @@
+.container {
+    
+    background: rgb(175, 40, 40);
+    width: 100%;
+    height: 480px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.main-text {
+    background: rgb(238, 143, 0);
+    height: 240px;
+    width: 100%;
+    margin-top: 52px;
+}
+
+.main-title {
+    color: #ccc;
+}
+
