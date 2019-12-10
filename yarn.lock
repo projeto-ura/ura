@@ -8283,6 +8283,13 @@ react-app-polyfill@^1.0.4:
     regenerator-runtime "0.13.3"
     whatwg-fetch "3.0.0"
 
+react-awesome-button@^6.3.1:
+  version "6.3.1"
+  resolved "https://registry.yarnpkg.com/react-awesome-button/-/react-awesome-button-6.3.1.tgz#e9339d2c6ca55a86ac6e05ede24c108c738f0283"
+  integrity sha512-5YgzkyuSzCL8C4pf/hc/kWmXgCE6p2Gy77857WJmtKxt5WiJr671zOa/0uiVB1BBdHc384UgVs1+KguQTT72JQ==
+  dependencies:
+    web-animation-club "^0.6.0"
+
 react-awesome-slider@^2.2.1:
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/react-awesome-slider/-/react-awesome-slider-2.2.1.tgz#3e3983399b87db12b8b21e28eed0f70f080240e5"
