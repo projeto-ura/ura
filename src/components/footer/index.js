@@ -1,11 +1,19 @@
 import React, { Component } from 'react';
-import './style.css'
+
+// Styles
+
+
+
+// Images
+
+
+
 
 export default class Footer extends Component {
     render() {
         return(
-            <div className="main-footer">
-                <footer className="box-footer">
+            <div className="content-container">
+                <footer className="footer-container">
                     Copyright &copy; Um robô por aluno
                 </footer>
             </div>
