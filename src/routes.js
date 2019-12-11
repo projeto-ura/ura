@@ -16,7 +16,7 @@ function Routes() {
             <Route path="/ura/Tutoriais" component={Tutoriais} />
             <Route path="/ura/Notíciais" component={Notíciais} />
             <Route path="/ura/Metodologia" component={Metodologia} />
-            <Route path="/ura/FaleConoscoFaleConosco" component={FaleConosco} />
+            <Route path="/ura/FaleConosco" component={FaleConosco} />
         </Switch>
     )
 }
