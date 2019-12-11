@@ -2,7 +2,7 @@
   "name": "front_end",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://projeto-ura.github.io/ura-front",
+  "homepage": "https://projeto-ura.github.io/ura",
   "dependencies": {
     "express": "^4.17.1",
     "gh-pages": "^2.1.1",
