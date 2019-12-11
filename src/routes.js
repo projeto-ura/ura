@@ -11,12 +11,12 @@ import FaleConosco from './pages/FaleConosco/index';
 function Routes() {
     return(
         <Switch>
-            <Route path="/" exact component={Home} />
-            <Route path="/QuemSomos" component={QuemSomos} />
-            <Route path="/Tutoriais" component={Tutoriais} />
-            <Route path="/Notíciais" component={Notíciais} />
-            <Route path="/Metodologia" component={Metodologia} />
-            <Route path="/FaleConosco" component={FaleConosco} />
+            <Route path="/ura" exact component={Home} />
+            <Route path="/ura/QuemSomos" component={QuemSomos} />
+            <Route path="/ura/Tutoriais" component={Tutoriais} />
+            <Route path="/ura/Notíciais" component={Notíciais} />
+            <Route path="/ura/Metodologia" component={Metodologia} />
+            <Route path="/ura/FaleConoscoFaleConosco" component={FaleConosco} />
         </Switch>
     )
 }
