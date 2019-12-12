@@ -31,14 +31,16 @@ export default class Header extends Component {
                                 <li><a href="/ura/Tutoriais"><AwesomeButton type="primary" size="medium" >Tutoriais</AwesomeButton></a></li>
                                 <li><a href="/ura/Notíciais"><AwesomeButton type="primary" size="medium" >Notíciais</AwesomeButton></a></li>
                                 <li><a href="/ura/Metodologia"><AwesomeButton type="primary" size="medium" >Metodologia</AwesomeButton></a></li>
-\                                <li><a href="/ura/FaleConosco"><AwesomeButton type="primary" size="medium" >Contato</AwesomeButton></a></li>
+                              <li><a href="/ura/FaleConosco"><AwesomeButton type="primary" size="medium" >Contato</AwesomeButton></a></li>
                             </ul>
                         </nav>
 
-
+                        
                         
 
                     </div>
+
+                    
                 </header>    
         )
     }

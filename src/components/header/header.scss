@@ -35,7 +35,8 @@
     font-family: sans-serif   ;
     
     transition: color 0.2s linear;
-    margin-left: 10px;
+    margin-left: 8px;
+    
 }
 
 
@@ -70,3 +71,52 @@
     width: 42px;
     margin-left: 12px;
 }
+
+label {
+    margin: 0 40px 0 0;
+    font-size: 26px;
+    line-height: 70px;
+    display: none;
+    
+}
+
+#toggle {
+    
+}
+
+
+
+@media only screen and (max-width: 870px) {
+    
+
+    .main-header {
+        height: 280px;
+    }
+
+    .main-nav {
+        text-align: center;
+        width: 100%;
+        
+        
+    }
+
+    .main-nav li {
+        display: block;
+    }
+
+    .ul-nav {
+        margin: 200px 0 0 0;
+        
+    }
+
+    .main-header {
+        position: absolute;
+    }
+
+    
+
+
+}
+
+
+
