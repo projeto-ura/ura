@@ -24,7 +24,7 @@ export default class QuemSomos extends Component {
                 </div>
 
                 <div className="container-image">
-                    <img src={Sensor} className="image"></img>
+                    
                 </div>
 
             </div>
