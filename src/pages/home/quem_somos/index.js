@@ -14,7 +14,7 @@ export default class QuemSomos extends Component {
         return (
             <div className="container-quem-somos">
 
-                <div className="text-quem-somos">
+                <div className="container-text">
                     <h1>Quem Somos</h1>
                     <p>Acreditamos que a escola deve ser o lugar onde
                         os alunos despertem sua criatividade, deem vidas aos seus sonhos e construam

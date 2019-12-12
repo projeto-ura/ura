@@ -21,7 +21,7 @@ export default class Header extends Component {
                     <div className="header-content">
 
                         <div className="header-logo">
-                            <a href="/" className="a-logo"><img src={logo} className="img-logo" alt=""></img></a>
+                            <a href="/ura" className="a-logo"><img src={logo} className="img-logo" alt=""></img></a>
                         </div>
 
 
@@ -36,11 +36,7 @@ export default class Header extends Component {
                         </nav>
 
 
-                        <div className="social-bar">
-                            <a href="#"><img src={logoFacebook} className="logo-facebook"></img></a>
-                            <a href="#"><img src={logoInstagram} className="logo-instagram"></img></a>
-                            <a href="#"><img src={logoGithub} className="logo-github"></img></a>
-                        </div>
+                        
 
                     </div>
                 </header>    
