@@ -27,7 +27,7 @@ export default class Header extends Component {
 
                         <nav className="main-nav">
                             <ul className="ul-nav">
-                                <li><a href="/ura/QuemSomos"><AwesomeButton type="primary" size="medium" >Quem Somos</AwesomeButton></a></li>
+                                <li><a href="/ura/QuemSomos"><AwesomeButton type="primary" size="medium"  className="teste1">Quem Somos</AwesomeButton></a></li>
                                 <li><a href="/ura/Tutoriais"><AwesomeButton type="primary" size="medium" >Tutoriais</AwesomeButton></a></li>
                                 <li><a href="/ura/Notíciais"><AwesomeButton type="primary" size="medium" >Notíciais</AwesomeButton></a></li>
                                 <li><a href="/ura/Metodologia"><AwesomeButton type="primary" size="medium" >Metodologia</AwesomeButton></a></li>

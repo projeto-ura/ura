@@ -13,8 +13,13 @@
     margin: 0 auto;
     height: 80px;
     display: flex;
+    flex-direction: row;
     align-items: center;
     justify-content: space-around;
+    
+}
+
+.main-nav {
     
 }
 
@@ -46,6 +51,7 @@
 
 .header-logo {
     box-sizing: border-box;
+    
     
 }
 .img-logo{
@@ -80,17 +86,26 @@ label {
     
 }
 
-#toggle {
-    
-}
+
+
 
 
 
 @media only screen and (max-width: 870px) {
+    .header-logo {
+        box-sizing: border-box;
+        
+        margin-top: 225px
+        
+    }
+
+    .header-content {
+        flex-direction: column;
+    }
     
 
     .main-header {
-        height: 280px;
+        height: 320px;
     }
 
     .main-nav {
@@ -105,7 +120,7 @@ label {
     }
 
     .ul-nav {
-        margin: 200px 0 0 0;
+        
         
     }
 
