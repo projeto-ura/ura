@@ -1,5 +1,10 @@
 .container-quem-somos {
     background: rgb(255, 255, 255);
+    height: 600px;
+    width: 100%;
+
+    overflow: hidden;
+
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -13,9 +18,10 @@
 }
 
 .container-text {
-    background: rgb(255, 255, 255);
+    background: rgba(255, 255, 255, 0.849);
     height: 400px;
     width: 620px;
+
     margin-top: 100px;
     margin-bottom: 100px;
     margin-left: 40px;
@@ -26,21 +32,29 @@
 
 .container-text h1 {
     display: block;
-    text-align: left;
+    text-align: center;
     font-size: 42px;
     margin-left: 12px;
     margin-top: 32px;
-    color: rgb(35, 43, 168);
+    color: rgb(61, 98, 218);
 }
 
 .container-text p {
     display: block;
-    text-align: left;
+    text-align: center;
     margin-top: 12px;
     margin-left: 12px;
     margin-right: 3px;
     font-size: 22px;
     color: rgb(87, 72, 72); 
+}
+
+.button-text {
+    display: block;
+    text-align: center;
+    margin: 22px 0px 0px 0px;
+
+    font-size: 22px;
 }
 
 .container-image {
@@ -52,5 +66,10 @@
 
 .image {
     height: 400px;
+    width: 520px;
     border-radius: 22px;
+}
+
+@media only screen and (max-width: 870px) {
+
 }
