@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae8eb74c949f0c9a84b3fcaad96de6ba",
+    "revision": "ef0e0c35c41ae320c589808230009f84",
     "url": "/ura/index.html"
   },
   {
-    "revision": "af0b898f9a2b353a99cc",
-    "url": "/ura/static/css/main.58a3f50c.chunk.css"
+    "revision": "f197d640b71c8455d5e6",
+    "url": "/ura/static/css/main.d2865507.chunk.css"
   },
   {
     "revision": "204b4f685cb2d9f87530",
     "url": "/ura/static/js/2.9b672436.chunk.js"
   },
   {
-    "revision": "af0b898f9a2b353a99cc",
+    "revision": "f197d640b71c8455d5e6",
     "url": "/ura/static/js/main.30312fc7.chunk.js"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ura/static/media/logo-ura.332ca720.png"
   },
   {
-    "revision": "adefa3649207aca03b9a373c30430fdf",
-    "url": "/ura/static/media/roboo.adefa364.jpg"
+    "revision": "adc1857e2675d469f15babf2c2f7d15f",
+    "url": "/ura/static/media/mainwallpaper.adc1857e.jpg"
   },
   {
     "revision": "a7eb41923d120c9973742501fadde997",
