@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ura/static/css/main.d2865507.chunk.css",
+    "main.css": "/ura/static/css/main.1b32540c.chunk.css",
     "main.js": "/ura/static/js/main.30312fc7.chunk.js",
     "main.js.map": "/ura/static/js/main.30312fc7.chunk.js.map",
     "runtime-main.js": "/ura/static/js/runtime-main.b4367339.js",
@@ -8,9 +8,9 @@
     "static/js/2.9b672436.chunk.js": "/ura/static/js/2.9b672436.chunk.js",
     "static/js/2.9b672436.chunk.js.map": "/ura/static/js/2.9b672436.chunk.js.map",
     "index.html": "/ura/index.html",
-    "precache-manifest.e5ca740b1ec82fe0ea08cc0327dbf65f.js": "/ura/precache-manifest.e5ca740b1ec82fe0ea08cc0327dbf65f.js",
+    "precache-manifest.9b8b78b4aad7ce28cebb50f9239ce0f1.js": "/ura/precache-manifest.9b8b78b4aad7ce28cebb50f9239ce0f1.js",
     "service-worker.js": "/ura/service-worker.js",
-    "static/css/main.d2865507.chunk.css.map": "/ura/static/css/main.d2865507.chunk.css.map",
+    "static/css/main.1b32540c.chunk.css.map": "/ura/static/css/main.1b32540c.chunk.css.map",
     "static/media/01.JPG": "/ura/static/media/01.1126c0dc.JPG",
     "static/media/02.JPG": "/ura/static/media/02.1aebf31e.JPG",
     "static/media/03.JPG": "/ura/static/media/03.73102c1b.JPG",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.b4367339.js",
     "static/js/2.9b672436.chunk.js",
-    "static/css/main.d2865507.chunk.css",
+    "static/css/main.1b32540c.chunk.css",
     "static/js/main.30312fc7.chunk.js"
   ]
 }
