@@ -4,12 +4,12 @@
     background-image: url(../../../img/mainwallpaper.jpg);
     background-repeat: no-repeat;
     background-attachment: local;
-    background-size: 120%
+    background-size: 125%
 }
 
 @media only screen and (max-width: 870px) {
     .container-wallpaper {
         height: 320px;
-        background-size: 130%;
+        background-size: 145%;
     }
 }
