@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/ura/static/css/main.5c042790.chunk.css",
-    "main.js": "/ura/static/js/main.b8412c5e.chunk.js",
-    "main.js.map": "/ura/static/js/main.b8412c5e.chunk.js.map",
+    "main.css": "/ura/static/css/main.8a08ecad.chunk.css",
+    "main.js": "/ura/static/js/main.6ea0272e.chunk.js",
+    "main.js.map": "/ura/static/js/main.6ea0272e.chunk.js.map",
     "runtime-main.js": "/ura/static/js/runtime-main.b4367339.js",
     "runtime-main.js.map": "/ura/static/js/runtime-main.b4367339.js.map",
-    "static/js/2.411add1a.chunk.js": "/ura/static/js/2.411add1a.chunk.js",
-    "static/js/2.411add1a.chunk.js.map": "/ura/static/js/2.411add1a.chunk.js.map",
+    "static/js/2.8356c1a8.chunk.js": "/ura/static/js/2.8356c1a8.chunk.js",
+    "static/js/2.8356c1a8.chunk.js.map": "/ura/static/js/2.8356c1a8.chunk.js.map",
     "index.html": "/ura/index.html",
-    "precache-manifest.6ce812afa9c6264f10c24026603b9d19.js": "/ura/precache-manifest.6ce812afa9c6264f10c24026603b9d19.js",
+    "precache-manifest.383b8836db724d4b481115ace7761c8b.js": "/ura/precache-manifest.383b8836db724d4b481115ace7761c8b.js",
     "service-worker.js": "/ura/service-worker.js",
-    "static/css/main.5c042790.chunk.css.map": "/ura/static/css/main.5c042790.chunk.css.map",
+    "static/css/main.8a08ecad.chunk.css.map": "/ura/static/css/main.8a08ecad.chunk.css.map",
     "static/media/01.JPG": "/ura/static/media/01.1126c0dc.JPG",
     "static/media/02.JPG": "/ura/static/media/02.1aebf31e.JPG",
     "static/media/03.JPG": "/ura/static/media/03.73102c1b.JPG",
     "static/media/04.JPG": "/ura/static/media/04.ed4e1098.JPG",
+    "static/media/facebook.png": "/ura/static/media/facebook.8f5ce275.png",
     "static/media/logo-facebookv2.png": "/ura/static/media/logo-facebookv2.25500a5c.png",
     "static/media/logo-githubv2.png": "/ura/static/media/logo-githubv2.5a2d5cfe.png",
     "static/media/logo-instagramv2.png": "/ura/static/media/logo-instagramv2.f29a34b7.png",
@@ -25,12 +26,15 @@
     "static/media/sensor.jpg": "/ura/static/media/sensor.687ac6fd.jpg",
     "static/media/study.svg": "/ura/static/media/study.855adeac.svg",
     "static/media/teacher.svg": "/ura/static/media/teacher.fd0dee78.svg",
-    "static/media/training.svg": "/ura/static/media/training.e44c8f30.svg"
+    "static/media/training.svg": "/ura/static/media/training.e44c8f30.svg",
+    "static/media/twitter.png": "/ura/static/media/twitter.0251d8ee.png",
+    "static/media/ura_pessoal.jfif": "/ura/static/media/ura_pessoal.5685b836.jfif",
+    "static/media/ura_vinheta.mp4": "/ura/static/media/ura_vinheta.d7fb4c83.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.b4367339.js",
-    "static/js/2.411add1a.chunk.js",
-    "static/css/main.5c042790.chunk.css",
-    "static/js/main.b8412c5e.chunk.js"
+    "static/js/2.8356c1a8.chunk.js",
+    "static/css/main.8a08ecad.chunk.css",
+    "static/js/main.6ea0272e.chunk.js"
   ]
 }
