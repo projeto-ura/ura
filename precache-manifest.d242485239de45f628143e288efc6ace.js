@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "77e19ead0c8f08b06a20f70db443c394",
+    "revision": "6e6fc7f56321e77250606ec1c62f13d3",
     "url": "/ura/index.html"
   },
   {
-    "revision": "832c90524bcf88976685",
-    "url": "/ura/static/css/main.8a08ecad.chunk.css"
+    "revision": "16040cd2ecbdd3e150bf",
+    "url": "/ura/static/css/main.ab1ee5eb.chunk.css"
   },
   {
-    "revision": "b72cb0fc5027ec119a1a",
-    "url": "/ura/static/js/2.8420b635.chunk.js"
+    "revision": "7dbef65fd5c580477168",
+    "url": "/ura/static/js/2.a2f3045c.chunk.js"
   },
   {
-    "revision": "832c90524bcf88976685",
-    "url": "/ura/static/js/main.510c86b6.chunk.js"
+    "revision": "16040cd2ecbdd3e150bf",
+    "url": "/ura/static/js/main.1e4b0afd.chunk.js"
   },
   {
-    "revision": "44e3f6c7addf7fa5bf0d",
-    "url": "/ura/static/js/runtime-main.b4367339.js"
+    "revision": "4550af8ceafef250482b",
+    "url": "/ura/static/js/runtime-main.c73d4caa.js"
   },
   {
     "revision": "1126c0dc57be6f7d196673136a5c978c",
