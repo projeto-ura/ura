@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ura/static/css/main.ab1ee5eb.chunk.css",
-    "main.js": "/ura/static/js/main.1e4b0afd.chunk.js",
-    "main.js.map": "/ura/static/js/main.1e4b0afd.chunk.js.map",
+    "main.css": "/ura/static/css/main.0089f593.chunk.css",
+    "main.js": "/ura/static/js/main.9a1b7b24.chunk.js",
+    "main.js.map": "/ura/static/js/main.9a1b7b24.chunk.js.map",
     "runtime-main.js": "/ura/static/js/runtime-main.c73d4caa.js",
     "runtime-main.js.map": "/ura/static/js/runtime-main.c73d4caa.js.map",
-    "static/js/2.a2f3045c.chunk.js": "/ura/static/js/2.a2f3045c.chunk.js",
-    "static/js/2.a2f3045c.chunk.js.map": "/ura/static/js/2.a2f3045c.chunk.js.map",
+    "static/js/2.3aad7eea.chunk.js": "/ura/static/js/2.3aad7eea.chunk.js",
+    "static/js/2.3aad7eea.chunk.js.map": "/ura/static/js/2.3aad7eea.chunk.js.map",
     "index.html": "/ura/index.html",
-    "precache-manifest.c5d96d0f2495ba491b7071b12a6234a2.js": "/ura/precache-manifest.c5d96d0f2495ba491b7071b12a6234a2.js",
+    "precache-manifest.3383797b348b02877996d7525024daee.js": "/ura/precache-manifest.3383797b348b02877996d7525024daee.js",
     "service-worker.js": "/ura/service-worker.js",
-    "static/css/main.ab1ee5eb.chunk.css.map": "/ura/static/css/main.ab1ee5eb.chunk.css.map",
+    "static/css/main.0089f593.chunk.css.map": "/ura/static/css/main.0089f593.chunk.css.map",
     "static/media/01.JPG": "/ura/static/media/01.1126c0dc.JPG",
     "static/media/02.JPG": "/ura/static/media/02.1aebf31e.JPG",
     "static/media/03.JPG": "/ura/static/media/03.73102c1b.JPG",
@@ -21,6 +21,7 @@
     "static/media/logo-instagramv2.png": "/ura/static/media/logo-instagramv2.f29a34b7.png",
     "static/media/logo-ura.png": "/ura/static/media/logo-ura.332ca720.png",
     "static/media/wallpaper.scss": "/ura/static/media/mainwallpaper.adc1857e.jpg",
+    "static/media/desenvolvimento.scss": "/ura/static/media/scholae_background.59a01ebd.png",
     "static/media/contato.scss": "/ura/static/media/scholae_background2.a7eb4192.png",
     "static/media/school.svg": "/ura/static/media/school.d83f15b8.svg",
     "static/media/sensor.jpg": "/ura/static/media/sensor.687ac6fd.jpg",
@@ -33,8 +34,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c73d4caa.js",
-    "static/js/2.a2f3045c.chunk.js",
-    "static/css/main.ab1ee5eb.chunk.css",
-    "static/js/main.1e4b0afd.chunk.js"
+    "static/js/2.3aad7eea.chunk.js",
+    "static/css/main.0089f593.chunk.css",
+    "static/js/main.9a1b7b24.chunk.js"
   ]
 }
