@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0fb1fe11b77b0e62428b32e3923b6019",
+    "revision": "ed8997267833d3f81cd0f9377bf022b8",
     "url": "/ura/index.html"
   },
   {
-    "revision": "2e8940cc4639f59515d5",
-    "url": "/ura/static/css/main.a818c21d.chunk.css"
+    "revision": "0f8aaf77cb034bd44b10",
+    "url": "/ura/static/css/main.49e1b049.chunk.css"
   },
   {
-    "revision": "d3b6408f75d647a04152",
-    "url": "/ura/static/js/2.3aad7eea.chunk.js"
+    "revision": "5f975d57b1dccf6143d3",
+    "url": "/ura/static/js/2.56d10cd8.chunk.js"
   },
   {
-    "revision": "2e8940cc4639f59515d5",
-    "url": "/ura/static/js/main.0c976f62.chunk.js"
+    "revision": "0f8aaf77cb034bd44b10",
+    "url": "/ura/static/js/main.f825a5a4.chunk.js"
   },
   {
     "revision": "4550af8ceafef250482b",
@@ -60,6 +60,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ura/static/media/mainwallpaper.adc1857e.jpg"
   },
   {
+    "revision": "1f2b4384e04ab940060488671b519911",
+    "url": "/ura/static/media/metodologia-f.1f2b4384.png"
+  },
+  {
     "revision": "59a01ebd58cda5dbb64e320c1255f84a",
     "url": "/ura/static/media/scholae_background.59a01ebd.png"
   },
@@ -90,10 +94,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0251d8ee95aa6d1f3400faa3b46b4bcf",
     "url": "/ura/static/media/twitter.0251d8ee.png"
-  },
-  {
-    "revision": "5685b83679669fcb59e8f4eea42b3ba4",
-    "url": "/ura/static/media/ura_pessoal.5685b836.jfif"
   },
   {
     "revision": "d7fb4c83ded53d8f9128f5bb765467b8",

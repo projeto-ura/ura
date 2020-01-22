@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ura/static/css/main.a818c21d.chunk.css",
-    "main.js": "/ura/static/js/main.0c976f62.chunk.js",
-    "main.js.map": "/ura/static/js/main.0c976f62.chunk.js.map",
+    "main.css": "/ura/static/css/main.49e1b049.chunk.css",
+    "main.js": "/ura/static/js/main.f825a5a4.chunk.js",
+    "main.js.map": "/ura/static/js/main.f825a5a4.chunk.js.map",
     "runtime-main.js": "/ura/static/js/runtime-main.c73d4caa.js",
     "runtime-main.js.map": "/ura/static/js/runtime-main.c73d4caa.js.map",
-    "static/js/2.3aad7eea.chunk.js": "/ura/static/js/2.3aad7eea.chunk.js",
-    "static/js/2.3aad7eea.chunk.js.map": "/ura/static/js/2.3aad7eea.chunk.js.map",
+    "static/js/2.56d10cd8.chunk.js": "/ura/static/js/2.56d10cd8.chunk.js",
+    "static/js/2.56d10cd8.chunk.js.map": "/ura/static/js/2.56d10cd8.chunk.js.map",
     "index.html": "/ura/index.html",
-    "precache-manifest.05a81d38869556edf9c73943f70c5bc9.js": "/ura/precache-manifest.05a81d38869556edf9c73943f70c5bc9.js",
+    "precache-manifest.ebf324b045aa64fe0b31ad0ef038119f.js": "/ura/precache-manifest.ebf324b045aa64fe0b31ad0ef038119f.js",
     "service-worker.js": "/ura/service-worker.js",
-    "static/css/main.a818c21d.chunk.css.map": "/ura/static/css/main.a818c21d.chunk.css.map",
+    "static/css/main.49e1b049.chunk.css.map": "/ura/static/css/main.49e1b049.chunk.css.map",
     "static/media/01.JPG": "/ura/static/media/01.1126c0dc.JPG",
     "static/media/02.JPG": "/ura/static/media/02.1aebf31e.JPG",
     "static/media/03.JPG": "/ura/static/media/03.73102c1b.JPG",
@@ -21,6 +21,7 @@
     "static/media/logo-instagramv2.png": "/ura/static/media/logo-instagramv2.f29a34b7.png",
     "static/media/logo-ura.png": "/ura/static/media/logo-ura.332ca720.png",
     "static/media/wallpaper.scss": "/ura/static/media/mainwallpaper.adc1857e.jpg",
+    "static/media/metodologia-f.png": "/ura/static/media/metodologia-f.1f2b4384.png",
     "static/media/desenvolvimento.scss": "/ura/static/media/scholae_background.59a01ebd.png",
     "static/media/contato.scss": "/ura/static/media/scholae_background2.a7eb4192.png",
     "static/media/school.svg": "/ura/static/media/school.d83f15b8.svg",
@@ -29,13 +30,12 @@
     "static/media/teacher.svg": "/ura/static/media/teacher.fd0dee78.svg",
     "static/media/training.svg": "/ura/static/media/training.e44c8f30.svg",
     "static/media/twitter.png": "/ura/static/media/twitter.0251d8ee.png",
-    "static/media/ura_pessoal.jfif": "/ura/static/media/ura_pessoal.5685b836.jfif",
     "static/media/ura_vinheta.mp4": "/ura/static/media/ura_vinheta.d7fb4c83.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.c73d4caa.js",
-    "static/js/2.3aad7eea.chunk.js",
-    "static/css/main.a818c21d.chunk.css",
-    "static/js/main.0c976f62.chunk.js"
+    "static/js/2.56d10cd8.chunk.js",
+    "static/css/main.49e1b049.chunk.css",
+    "static/js/main.f825a5a4.chunk.js"
   ]
 }
