@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://projeto-ura.github.io/ura",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "gh-pages": "^2.1.1",
     "node-sass": "^4.13.0",
     "react": "^16.12.0",
